@@ -1,5 +1,7 @@
 # gMSA_Dumper
 
+Reads any gMSA password blobs the user can access and parses the values.
+
 	gMSA_Dumper.py -h
     
 
